@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Dell/Documents/0.Spring2015/2015-Spring/cs4326-mw-1700/android/FallAssistant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w360dp/values.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">3</integer>
+</resources>
